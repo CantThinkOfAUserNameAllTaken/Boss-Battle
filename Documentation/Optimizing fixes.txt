@@ -1,0 +1,3 @@
+Can optimize the game by making the stamina not increase on a tick, but on a recursuve timer, that cancels when stamina is greater or equal to max stamina
+
+Object pooling, stuff like instead of creating new particles, just reactivate old ones.
