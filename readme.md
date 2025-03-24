@@ -29,7 +29,11 @@ Boss battle is a game where you battle a boss, with the aim to beat them.
 
 ### Video
 
-https://github.falmouth.ac.uk/GA-Undergrad-Student-Work-24-25/Gam206--2300873-BossBattle/assets/2261/df1a5fdc-61a7-4788-a381-f107a5550e05
+
+https://github.com/user-attachments/assets/e3636f75-e277-4a13-9cd0-ec19aa36f6b8
+
+
+
 
 
 
